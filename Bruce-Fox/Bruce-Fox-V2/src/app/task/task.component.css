@@ -1,0 +1,10 @@
+table {
+    width:100%;
+}
+
+.SearchBar {
+    width :20%;
+    height : 50%;
+    font-size: 14px;
+    float : right;
+}

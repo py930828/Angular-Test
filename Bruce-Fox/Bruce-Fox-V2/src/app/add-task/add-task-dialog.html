@@ -1,0 +1,31 @@
+<h1 mat-dialog-title>Please enter new task information</h1>
+<div mat-dialog-content>
+    <mat-form-field>
+        <input id="QuoteType" matInput [(ngModel)]="task.QuoteType" placeholder="QuoteType">
+    </mat-form-field>
+
+    <mat-form-field>
+        <input id="QuoteType" type="date" matInput [(ngModel)]="task.DueDate" placeholder="DueDate">
+    </mat-form-field>
+
+    <mat-form-field>
+        <input id="QuoteType" matInput [(ngModel)]="task.TaskType" placeholder="TaskType">
+    </mat-form-field>
+
+    <mat-form-field>
+        <input id="QuoteType" matInput [(ngModel)]="task.QuoteNum" placeholder="QuoteNumber">
+    </mat-form-field>
+
+    <mat-form-field>
+        <input id="QuoteType" matInput [(ngModel)]="task.Customer" placeholder="Customer">
+    </mat-form-field>
+
+    <mat-form-field>
+        <input id="QuoteType" matInput [(ngModel)]="task.Contact" placeholder="Contact">
+    </mat-form-field>
+
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">No Thanks</button>
+  <button mat-button (click)="addtask(task)" [mat-dialog-close] cdkFocusInitial>Ok</button>
+</div>

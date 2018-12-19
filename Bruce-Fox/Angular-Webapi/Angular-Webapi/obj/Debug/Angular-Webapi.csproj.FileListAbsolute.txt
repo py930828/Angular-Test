@@ -1,0 +1,208 @@
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\ApplicationInsights.config
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Angular-Webapi.dll.config
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Angular-Webapi.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Angular-Webapi.pdb
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\csc.exe
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\csc.exe.config
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\csc.rsp
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\csi.exe
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\csi.exe.config
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\csi.rsp
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.AppContext.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Console.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.Compression.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Claims.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.ValueTuple.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\vbc.exe
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\vbc.exe.config
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\vbc.rsp
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\VBCSCompiler.exe
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Antlr3.Runtime.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\EntityFramework.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\EntityFramework.SqlServer.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.Web.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Newtonsoft.Json.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Net.Http.Formatting.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Helpers.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.WebHost.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Mvc.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Optimization.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Razor.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.Razor.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\WebGrease.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\EntityFramework.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\EntityFramework.SqlServer.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Newtonsoft.Json.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Net.Http.Formatting.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Helpers.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.WebHost.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Mvc.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Optimization.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Razor.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.Razor.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Antlr3.Runtime.pdb
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.Web.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.csprojAssemblyReference.cache
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.csproj.CoreCompileInputs.cache
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.csproj.CopyComplete
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.pdb
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Cors.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.Cors.dll
+C:\Users\cl930\Desktop\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.Cors.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\ApplicationInsights.config
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Angular-Webapi.dll.config
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Angular-Webapi.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Angular-Webapi.pdb
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\csc.exe
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\csc.exe.config
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\csc.rsp
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\csi.exe
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\csi.exe.config
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\csi.rsp
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.AppContext.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Console.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.Compression.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Claims.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.ValueTuple.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\vbc.exe
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\vbc.exe.config
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\vbc.rsp
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\VBCSCompiler.exe
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Antlr3.Runtime.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\EntityFramework.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\EntityFramework.SqlServer.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.Web.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Newtonsoft.Json.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Net.Http.Formatting.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Cors.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Helpers.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.Cors.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.WebHost.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Mvc.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Optimization.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Razor.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.Razor.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\WebGrease.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\EntityFramework.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\EntityFramework.SqlServer.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Newtonsoft.Json.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Net.Http.Formatting.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.Cors.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Helpers.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Http.WebHost.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Mvc.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Optimization.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.Razor.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Web.WebPages.Razor.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Antlr3.Runtime.pdb
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.AI.Web.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.csprojAssemblyReference.cache
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.csproj.CoreCompileInputs.cache
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.csproj.CopyComplete
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.dll
+C:\Users\cl930\Desktop\training document\Training Project\Angular Project\Bruce-Fox\Angular-Webapi\Angular-Webapi\obj\Debug\Angular-Webapi.pdb

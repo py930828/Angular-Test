@@ -1,0 +1,78 @@
+<!-- This is the add task bar -->
+<mat-toolbar>
+    <span style="color: blue">Task Detail</span>
+    <span style="flex: 1 1 auto"></span>
+    <span>
+      <button mat-flat-button color="primary" (click)="openAddTaskDialog()">Add Task</button>
+    </span> 
+</mat-toolbar>
+<!-- This ends the add task bar -->
+
+<!-- This starts the search bar -->
+<div>
+    <mat-form-field class="SearchBar">
+        Search: 
+        <input matInput (keyup)="applyFilter($event.target.value)">
+    </mat-form-field>
+</div>
+
+
+<!-- This begins Task Table -->
+<table mat-table [dataSource]="dataSource" matSort (matSortChange)="sortData($event)" class="mat-elevation-z8">
+  <ng-container matColumnDef="QuoteType">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header="quoteType">QuoteType</th>
+    <td mat-cell *matCellDef="let task">{{task.quoteType}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="Quote#">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header="quoteNum">Quete#</th>
+      <td mat-cell *matCellDef="let task">{{task.quoteNum}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="Contact">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header="contact">Contact</th>
+      <td mat-cell *matCellDef="let task">{{task.contact}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="Task">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header="quoteID">Task</th>
+      <td mat-cell *matCellDef="let task">{{task.quoteType}}-Quote ID{{task.quoteID}}DueDate</td>
+  </ng-container>
+
+  <ng-container matColumnDef="DueDate">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header="dueDate">DueDate</th>
+      <td mat-cell *matCellDef="let task">{{task.dueDate}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="TaskType">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header="taskType">TaskType</th>
+      <td mat-cell *matCellDef="let task">{{task.taskType}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="???">
+      <th mat-header-cell *matHeaderCellDef>???</th>
+      <td mat-cell *matCellDef="let task">
+          <button mat-flat-button color="primary" (click)="openEditTaskDialog(task)">Edit</button>
+      </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+</table>
+<!-- This ends the Task Table -->
+
+<mat-paginator [length]="100"
+              [pageSize]="10"
+              [pageSizeOptions]="[1, 2, 5, 10, 25, 100]">
+</mat-paginator>
+
+
+
+
+<input [ngModel] = "test">
+
+
+
+
+
